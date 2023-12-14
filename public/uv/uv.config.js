@@ -1,7 +1,7 @@
 // This file overwrites the stock UV config.js
 
 self.__uv$config = {
-  prefix: "/uv/service/",
+  prefix: "www.bypassbandits.io",
   bare: "https://uv.holyubofficial.net/",
   encodeUrl: Ultraviolet.codec.xor.encode,
   decodeUrl: Ultraviolet.codec.xor.decode,
